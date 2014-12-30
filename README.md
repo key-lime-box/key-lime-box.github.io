@@ -1,4 +1,1 @@
-username.github.io
-==================
-
-Simple projects to make life sweet
+Web site for the organization.
